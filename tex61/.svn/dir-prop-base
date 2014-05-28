@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 325
+
+
+Controller.class
+ControllerTest.class
+Defaults.class
+FormatException.class
+InputParser.class
+InputParserTest$TestController.class
+InputParserTest.class
+LineAssembler.class
+LineAssemblerTest.class
+Main.class
+PageAssembler.class
+PageAssemblerTest.class
+PageCollector.class
+PagePrinter.class
+UnitTest.class
+sample.tx
+sentinel
+
+END

@@ -1,0 +1,5 @@
+   Here  we  test indentation  (this  line  should have  only  paragraph
+indentation, and the next should not be indented). 
+
+        This line and  those after should be indented by  5 spaces (plus
+     paragraph indentation, for the first). 

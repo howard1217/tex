@@ -1,0 +1,3 @@
+\indent{5}\parindent{-3}
+Make sure that negative paragraph indentation works properly, adding to
+the paragraph indentation.
